@@ -1,3 +1,4 @@
 # git-test
 # add feat 1
-# add feat 2
+# update feat 1
+# release
